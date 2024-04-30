@@ -1,1 +1,1 @@
-![Banner](https://raw.githubusercontent.com/gsanchez1687/Ultimejs/main/Banner.png)
+![Banner](https://raw.githubusercontent.com/gsanchez1687/Ultimejs/main/Banner2.png)

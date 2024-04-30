@@ -1,0 +1,5 @@
+//atajos constructores
+
+let obj = {
+     
+}

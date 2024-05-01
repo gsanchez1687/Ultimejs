@@ -17,3 +17,11 @@ console.log(
     Math.random(), // 0.0 <= x < 1.0 //genera un numero aleatorio
 
 );
+
+//funcion para obtener un numero aleatorio entre un rango
+function getRamdomNumber(min, max) {
+    return Math.floor(Math.random() * (max - min) + min);
+}
+
+//ejemplo
+console.log(getRamdomNumber(1, 100)); // 1 <= x < 100
